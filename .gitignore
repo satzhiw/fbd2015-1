@@ -1,8 +1,2 @@
-# .gitignore
-# Arquivos e pastas a serem ignorados pelo Git
-
-# Ambientes virtuais
-venv/
-
-# Variáveis de ambiente
-.env
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
